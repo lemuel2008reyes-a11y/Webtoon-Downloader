@@ -6,3 +6,4 @@
 [![License](https://img.shields.io/github/license/Zehina/webtoon-downloader)](https://img.shields.io/github/license/Zehina/webtoon-downloader)
 
 Webtoons Scraper for downloading chapters of any series hosted on the webtoons website.
+https://www.webtoons.com/en/canvas/the-wolf-brothers/list?title_no=1031033
